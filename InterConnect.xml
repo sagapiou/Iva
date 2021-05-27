@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InterConnection>
+	<Connection>
+		<Mac>00-07-5F-74-39-DA</Mac>
+		<IP>10.0.0.59</IP>
+		<Register>Registers.Dev1</Register>
+		<DevID>1</DevID>
+	</Connection>
+	<Connection>
+		<Mac>00-07-5F-74-39-DA</Mac>
+		<IP>10.0.0.59</IP>
+		<Register>Registers.Dev2</Register>
+		<DevID>2</DevID>
+	</Connection>
+	<Connection>
+		<Mac>00-07-5F-71-EB-B4</Mac>
+		<IP>10.0.0.60</IP>
+		<Register>Registers.Dev3</Register>
+		<DevID>1</DevID>
+	</Connection>
+	<Connection>
+		<Mac>00-07-5F-71-EB-B4</Mac>
+		<IP>10.0.0.60</IP>
+		<Register>Registers.Dev4</Register>
+		<DevID>2</DevID>
+	</Connection>
+	<Connection>
+		<Mac>00-07-5F-71-EB-B4</Mac>
+		<IP>192.168.1.72</IP>
+		<Register>Registers.Dev4</Register>
+		<DevID>1</DevID>
+	</Connection>
+</InterConnection>
